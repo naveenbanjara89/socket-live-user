@@ -90,11 +90,11 @@ td {
   margin-right: 10px;
 }
 
-.user-status.online {
+.user-status.available {
   background-color: greenyellow;
 }
 
-.user-status.offline {
+.user-status.unavailable {
   background-color: red;
 }
 
